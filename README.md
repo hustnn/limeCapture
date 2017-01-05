@@ -7,5 +7,8 @@ The captured and assembled packages are sended to a shared queue which can be co
 
 Build:
 
-cd src;
-make
+cd src;  
+
+make  
+
+*** This project is strictly used for learning ***

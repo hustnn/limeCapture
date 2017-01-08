@@ -1,5 +1,5 @@
 # limeCapture
-A ethenet package capture tool
+A ethenet TCP/IP package capture and assembly tool
 
 limeCature captures the raw package from the ethenet card and reassembly it according to tcp/ip protocol.
 
